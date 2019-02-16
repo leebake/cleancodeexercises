@@ -1,4 +1,4 @@
-package com.infoshare.descriptiveNames;
+package com.infoshare.name.descriptive;
 
 import java.util.List;
 
